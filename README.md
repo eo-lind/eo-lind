@@ -5,9 +5,9 @@
 
 - 🔭 I have experience with **React/JS, HTML, CSS**
 
-- 🔗 [Flatrock](https://www.flatrockpod.com/)
-
 - ⚡ Fun fact **Michael Keaton is my favorite Batman**
+
+- 🔗 [Flatrock](https://www.flatrockpod.com/)
 
 <h3 align="left">Languages and Tools:</h3>
 
