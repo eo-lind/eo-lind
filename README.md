@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eo-lind&show_icons=true&theme=dark&locale=en" alt="eo-lind" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eo-lind&theme=dark" alt="eo-lind" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eo-lind&layout=compact&theme=dark)](https://github.com/eo-lind/github-readme-stats)
