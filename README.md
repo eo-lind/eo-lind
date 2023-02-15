@@ -1,5 +1,5 @@
 <h1 align="center">Oh hey, I'm Olivia.</h1>
-<h3 align="center">Full Stack Developer | Student at Nashville Software School</h3>
+<h3 align="center">Full Stack Developer | Nashville Software School Graduate</h3>
 
 - 🌱 I’m currently learning **C#/.NET**
 
