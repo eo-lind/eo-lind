@@ -7,8 +7,6 @@
 
 - ⚡ Fun fact **Michael Keaton is my favorite Batman**
 
-- 🔗 [Flatrock](https://www.flatrockpod.com/)
-
 <h3 align="left">Languages and Tools:</h3>
 
 React, JS
